@@ -1,6 +1,6 @@
 cask "track-banner" do
-  version "1.4.0"
-  sha256 "a29ba41f75d14f1ba44ff4ea420aae59d13b352b7e4978ff02b37076086fba46"
+  version "1.5.0"
+  sha256 "70eae5589381feed64f762f3831a83d81c6da264b3e74c4a199d485b9a694332"
 
   url "https://github.com/kongchu2/track-banner/releases/download/v#{version}/TrackBanner-#{version}.zip"
   name "Track Banner"
